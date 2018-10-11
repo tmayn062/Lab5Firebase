@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "227313507225",
+    "firebase_url": "https://lab5productcatalog.firebaseio.com",
+    "project_id": "lab5productcatalog",
+    "storage_bucket": "lab5productcatalog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227313507225:android:5739d6681633dbce",
+        "android_client_info": {
+          "package_name": "mylore.mgarzon.createbest.productcatalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227313507225-pg1m8g6bosbj9dhj6sucr6os3c7581j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW2KdJDntnTz5FaXjDo-TKvOb2uIZiJ2A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
